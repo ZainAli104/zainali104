@@ -1,7 +1,7 @@
 
 Hello! I am Zain Ali, a Computer Science Student. \
 A Full Stack Web Developer. \
-I use Technologies like MERN, VueJS, etc. to make Websites. \
+I use Technologies like MERN, VueJS, Firebase etc. to make Websites. \
 I am also Passionate about Blockchain Technology. 
 
 ## 🚀 About Me
