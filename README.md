@@ -1,5 +1,5 @@
 
-Hello! I am Zain Ali, a Computer Science Student. \
+Hello! I am Zain, a Computer Science Student. \
 A Full Stack Web Developer. \
 I use Technologies like MERN, VueJS, Firebase etc. to make Websites. \
 I am also Passionate about Blockchain Technology. 
@@ -7,8 +7,6 @@ I am also Passionate about Blockchain Technology.
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
-
-- 💬 Ask me about **Javascript, Vue, Nodejs,**
 
 - 📫 How to reach me **chzainali6363@gmail.com**
 ## 🏆 GitHub Trophy
