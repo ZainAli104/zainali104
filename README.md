@@ -1,26 +1,30 @@
+![](https://komarev.com/ghpvc/?username=ZainAli104)
 
-Hello! I am Zain, a Computer Science Student. \
-A Full Stack Web Developer. \
-I use Technologies like MERN, VueJS, Firebase etc. to make Websites. \
-I am also Passionate about Blockchain Technology. 
+
+<img align="right" alt="GIF" height=40% width=40%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Usman+Liaqat;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
+<img align="left" height="100" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" />
+
+- 🌱 I’m currently learning...
+
+- 💬 Ask me about **Html, Css, Javascript**
 
 - 📫 How to reach me **chzainali6363@gmail.com**
-## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zainali104&theme=onedark&row=1&column=6)]
-
-## 
 ## 📊 Stats
 
-[![trophy](https://github-readme-stats.vercel.app/api?username=zainali104&theme=blue-green)]
+![trophy](https://github-readme-stats.vercel.app/api?username=ZainAli104&theme=blue-green)
+![trophy](https://github-readme-streak-stats.herokuapp.com?user=ZainAli104&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAli104&layout=compact&theme=cobalt&hide_border=true)
 
 ## 👨‍💻 Connect with me 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__zainx__lyrix)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__zainx__lyrix)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zainali117)
 
 ## 🖥 Web Development
 
@@ -64,3 +68,10 @@ I am also Passionate about Blockchain Technology.
 ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
+
+
+## Joke 😁
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
+##
+<p align="center"> © 2023Creative Zain Ali, all rights reserved. Made with ❤️ </p>
